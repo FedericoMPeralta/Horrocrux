@@ -1,2 +1,2 @@
 # Horrocrux
-Trabajo practico sobre encontrar horrocruxes
+Juego sobre encontrar horrocruxes y derrotar guardianes
